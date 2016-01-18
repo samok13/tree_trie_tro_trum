@@ -19,6 +19,7 @@ describe LetterNode do
     end
 
 
+
     it 'returns a Struct' do
       expect(node).to be_a(Struct)
     end
